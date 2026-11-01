@@ -1292,8 +1292,6 @@ export async function answerTeacherQuestion(
 }
 
 if (!plan) {
-
-  if (!plan) {
   const sourceSections = sections.length
     ? sections
     : [{
