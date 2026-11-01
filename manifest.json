@@ -1,0 +1,12 @@
+{
+  "name": "Gurukul AI Learning Hub",
+  "short_name": "Gurukul",
+  "description": "Bilingual learning and offline textbook access for students and teachers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#d97706",
+  "icons": [
+    { "src": "/book-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

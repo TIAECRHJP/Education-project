@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+database.sqlite
+data/class7A_roster.csv
+data/quiz_results.csv
+database.sqlite
+**/class7A_roster*.csv
+**/quiz_results*.csv
+src/untitled/

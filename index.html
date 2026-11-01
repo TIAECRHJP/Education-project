@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gurukul AI - Har Bachhe Ka Doubt Clear, Har Shikshak Ka Samay Surakshit</title>
+    <meta name="description" content="Gurukul AI: every child's doubt answered, every teacher's evening saved. Grounded AI assistant for government schools in Bihar, built only from school chapter texts." />
+    <meta property="og:title" content="Gurukul AI" />
+    <meta property="og:description" content="Gurukul AI: every child's doubt answered, every teacher's evening saved. Grounded AI assistant for government schools in Bihar, built only from school chapter texts." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#d97706" />
+  </head>
+  <body>
+    <div id="root">
+      <main style="min-height:100vh;display:grid;place-items:center;padding:24px;background:radial-gradient(ellipse at 50% 0%,#263b45,#101d2a 52%,#07111f);color:#f8fafc;font-family:system-ui,sans-serif">
+        <section style="width:min(100%,560px);padding:40px;border:1px solid #fbbf2440;border-radius:28px;background:#081321db;box-shadow:0 24px 80px #0008;text-align:center">
+          <div style="font-size:36px" aria-hidden="true">📚</div>
+          <p style="margin:12px 0 6px;color:#fbbf24;font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase">Gurukul AI</p>
+          <h1 style="margin:0;font-size:30px">Starting your learning space…</h1>
+          <p style="color:#cbd5e1;line-height:1.6">If this message stays here, the development server or page scripts did not load. Start <strong>Start-Gurukul.bat</strong> in the project folder and refresh this page.</p>
+        </section>
+      </main>
+    </div>
+    <script>
+      // Remove old offline workers on localhost before loading the development app.
+      if (/^(localhost|127\.0\.0\.1)$/.test(location.hostname) && 'serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(async registrations => {
+          if (!registrations.length) return;
+          await Promise.all(registrations.map(registration => registration.unregister()));
+          const keys = await caches.keys();
+          await Promise.all(keys.filter(key => key.startsWith('gurukul-')).map(key => caches.delete(key)));
+          if (!sessionStorage.getItem('gurukul-sw-cleared')) {
+            sessionStorage.setItem('gurukul-sw-cleared', '1');
+            location.reload();
+          }
+        }).catch(error => console.warn('Could not clear an old offline cache:', error));
+      }
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

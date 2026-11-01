@@ -1,0 +1,32 @@
+# SAMPLE DATA FOR build#thon 2026 PROTOTYPES. Synthetic / written for this hackathon. Not real people, not official data.
+Class 7 Science (sample chapter, written for build#thon 2026)
+Chapter: How Plants Make Their Food
+
+1. Introduction
+All living things need food. Animals eat plants or other animals, but green plants make their own food. The process by which green plants make food using sunlight is called photosynthesis.
+
+2. What a plant needs for photosynthesis
+- Sunlight: the source of energy.
+- Chlorophyll: the green pigment in leaves that traps sunlight.
+- Carbon dioxide: taken from the air through tiny pores on the leaf called stomata.
+- Water: absorbed by the roots from the soil and carried up to the leaves.
+
+3. What a plant makes
+During photosynthesis, the leaf combines carbon dioxide and water, using the energy of sunlight, to make glucose (a kind of sugar). Oxygen is released into the air as a by-product. Extra glucose is stored as starch.
+Word equation: carbon dioxide + water --(sunlight, chlorophyll)--> glucose + oxygen
+
+4. Leaves: the food factories
+Leaves are broad and flat so they can catch more sunlight. Most photosynthesis happens in the leaves. Plants with leaves that are not green (for example red leaves) also contain chlorophyll; the red pigment hides the green colour.
+
+5. Testing for starch (activity)
+Take a leaf that has been in sunlight, boil it in alcohol (with a teacher's help) to remove chlorophyll, wash it and add a few drops of iodine solution. A blue-black colour shows that starch is present.
+
+6. Other ways plants get food
+- Parasitic plants such as Cuscuta (amarbel) take food from the host plant.
+- Insectivorous plants such as the pitcher plant trap insects to get nutrients.
+- Fungi such as mushrooms are saprotrophs: they take food from dead and decaying matter.
+
+7. Why photosynthesis matters
+It gives food to almost all living things and puts oxygen into the air we breathe.
+
+Key words: photosynthesis, chlorophyll, stomata, glucose, starch, parasite, saprotroph, insectivorous

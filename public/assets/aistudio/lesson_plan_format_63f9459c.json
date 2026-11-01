@@ -1,0 +1,53 @@
+{
+  "_note": "SAMPLE DATA FOR build#thon 2026 PROTOTYPES. Synthetic / written for this hackathon. Not real people, not official data. Suggested output format for an AI-generated lesson plan.",
+  "class": 7,
+  "subject": "Science",
+  "chapter": "How Plants Make Their Food",
+  "period_minutes": 40,
+  "learning_objectives": [
+    "Define photosynthesis",
+    "List the 4 things a plant needs",
+    "Explain why leaves are green"
+  ],
+  "materials": [
+    "A potted plant",
+    "A leaf kept in sunlight",
+    "Iodine solution (teacher demo)"
+  ],
+  "flow": [
+    {
+      "minutes": 5,
+      "activity": "Hook question: 'Plants don't eat like us. Where does their food come from?'"
+    },
+    {
+      "minutes": 15,
+      "activity": "Explain with the board diagram: sunlight + CO2 + water -> glucose + oxygen"
+    },
+    {
+      "minutes": 10,
+      "activity": "Starch test demo with iodine"
+    },
+    {
+      "minutes": 7,
+      "activity": "5-question quiz (auto-generated)"
+    },
+    {
+      "minutes": 3,
+      "activity": "Homework: draw a leaf and label stomata"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which gas do plants take in for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide",
+      "source": "Section 2"
+    }
+  ],
+  "language": "en"
+}

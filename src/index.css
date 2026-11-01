@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Keep the Bodhi artwork visible behind readable, translucent page surfaces. */
+:root {
+  color-scheme: dark;
+}
+
+[class*="bg-white"],
+[class*="bg-slate-50"],
+[class*="bg-slate-100"] {
+  background-color: rgb(15 23 42 / 0.78) !important;
+}
+
+[class*="text-slate-900"],
+[class*="text-slate-800"],
+[class*="text-slate-700"],
+[class*="text-slate-600"] {
+  color: rgb(241 245 249) !important;
+}

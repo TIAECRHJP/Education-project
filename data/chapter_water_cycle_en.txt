@@ -1,0 +1,26 @@
+# SAMPLE DATA FOR build#thon 2026 PROTOTYPES. Synthetic / written for this hackathon. Not real people, not official data.
+Class 6 Science (sample chapter, written for build#thon 2026)
+Chapter: The Water Cycle
+
+1. Water on Earth
+Most of the Earth's surface is covered with water, but most of it is salty sea water. Only a small part is fresh water that we can drink, found in rivers, lakes, ponds and under the ground.
+
+2. Evaporation
+When the sun heats water in rivers, ponds and seas, the water changes into water vapour and rises into the air. This is called evaporation. Plants also release water vapour from their leaves; this is called transpiration.
+
+3. Condensation
+As water vapour rises, it cools and changes into tiny drops of water. These drops come together to form clouds. Changing vapour back into water is called condensation.
+
+4. Precipitation
+When the drops in clouds become big and heavy, they fall as rain, or as snow and hail in cold places. This is called precipitation.
+
+5. Collection
+Rainwater flows into rivers, lakes and seas, and some soaks into the ground to become groundwater. The water evaporates again and the cycle continues. This continuous movement is called the water cycle.
+
+6. Floods and droughts
+Too much rain can cause floods (rivers like the Kosi in Bihar often flood). Too little rain for a long time causes drought. Both harm crops, animals and people.
+
+7. Saving water
+Rainwater harvesting, fixing leaking taps, and reusing water for plants help save water.
+
+Key words: evaporation, transpiration, condensation, precipitation, groundwater, flood, drought, rainwater harvesting
